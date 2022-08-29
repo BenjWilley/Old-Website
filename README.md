@@ -5,3 +5,4 @@ I am a junior Computer Engineering student at Texas A&M.
 
 [A&M Picture](/aTm.md)
 
+[A&M Picture](/)
