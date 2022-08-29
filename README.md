@@ -1,4 +1,3 @@
-Welcome to my testing website!
 
 I am a junior Computer Engineering student at Texas A&M.
 
