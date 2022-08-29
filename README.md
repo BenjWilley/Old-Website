@@ -2,6 +2,7 @@ Welcome to my website!
 
 I am a junior Computer Engineering student at Texas A&M.
 
+>I have taken ecen classes 248, 350 and Im currently taking 214.
 
-![image](https://user-images.githubusercontent.com/111322932/187305451-b07adef5-5fcf-4713-8295-bd33bd61a47e.png)
+
 
