@@ -1,4 +1,4 @@
-Wales Study Abroad 2022!
+### Wales Study Abroad 2022!
 
 ![image](WALESPIC3-min.jpg)
 
