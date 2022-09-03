@@ -1,6 +1,6 @@
 Wales Study Abroad 2022!
 
-![image](wales.jpg)
+![image](WALESPIC3-min.jpg)
 
 I had an unbeleivable time in the UK studying computer architecture this summer. The classes were held at Swansea University, and taught by A&M professors.
 
