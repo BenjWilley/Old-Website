@@ -14,7 +14,7 @@ For our weekend trips, we went to
 
 - Cambridge, where we visited the ARM headquarters
 
-- london
+- london, Eagles concert at Hyde Park
 
 - LOTS and lots of castles
 
