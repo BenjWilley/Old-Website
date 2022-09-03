@@ -8,6 +8,8 @@ Short term goals I want to achieve
  
  > Make more interactable features. Think Games and APIs
 
+> Github uses markdown, a simplified HTML, but I would like to encorporate other languages.
+
 [Resume](/Benjamin Willey Resume (4).pdf)
 
 [Wales Study Abroad](/Wales.md)
