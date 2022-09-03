@@ -10,6 +10,6 @@ Short term goals I want to achieve
 
 [Resume](/Benjamin Willey Resume (4).pdf)
 
-[A&M Picture](/Wales.md)
+[Wales Study Abroad](/Wales.md)
 
 Last edited friday, september 2. BTHO Sam Houston tomorrow.
