@@ -24,6 +24,6 @@ The classes I took were ECEN 350, computer architecture, and ECEN 469, advanced 
 
 Whats Next?
 
-Now that I know the high level(C++) and the low level(computer architecture) of a computer, I want to learn the middle level(OS and compile) to get a complete understanding. This Fall semester Im taking CSCE 313, but Im always learning on my own as well.
+Now that I know the high level(C++) and the low level(computer architecture) of a computer, I want to learn the middle level(OS and compile) to get a complete understanding. This Fall semester Im taking CSCE 313 and ECEN 214, but Im always learning on my own as well.
  
 [Back to Home](/README.md)
