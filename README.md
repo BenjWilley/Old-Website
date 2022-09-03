@@ -8,10 +8,8 @@ Short term goals I want to achieve
  
  > Make more interactable features. Think Games and APIs
 
-
-[A&M Picture](/aTm.md)
-
 [Resume](/Benjamin Willey Resume (4).pdf)
 
+[A&M Picture](/Wales.md)
 
 Last edited friday, september 2. BTHO Sam Houston tomorrow.
