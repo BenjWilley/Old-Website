@@ -22,6 +22,7 @@ For our weekend trips, we went to
 The classes I took were ECEN 350, computer architecture, and ECEN 469, advanced computer architecture. I learned how to design an ARM V8 CPU from scratch, along with the memory hiearchy and assembly that comes with that. The small class size and 2 professors for lab was amazing.
 
 Whats Next?
+
 Now that I know the high level(C++) and the low level(computer architecture) of a computer, I want to learn the middle level(OS and compile) to get a complete understanding. Im taking CSCE 313 that will help with this, but Im always learning on my own as well.
  
 [Back to Home](/README.md)
