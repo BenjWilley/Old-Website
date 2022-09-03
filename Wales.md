@@ -7,10 +7,15 @@ I had an unbeleivable time in the UK studying computer architecture this summer.
  I already find myself missing the "tube", full englishes, watching rugby in the pubs, and Tesco. Hopefully Ill return to the beaches of Rhosilli sooner than later, but til then, I can enjoy the friendships I made on my adventure. 
 
 For our weekend trips, we went to
+
 *Cardiff, Capital of Wales
+
 *Snowdonia to hike mount Snowden
+
 *Cambridge, where we visited the ARM headquarters
+
 *london
+
 *LOTS and lots of castles
 
 
