@@ -1,6 +1,6 @@
-Hi, Im Benjamin Willey, a junior Computer Engineering student at Texas A&M. 
+Welcome, I'm Benjamin Willey, a junior Computer Engineering student at Texas A&M. 
 
-This website is mainly for fun, but also, its for learning and experimenting.
+This website is mainly for fun, but also, it's for learning and experimenting.
 
 Short term website goals I want to achieve
  
