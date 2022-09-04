@@ -14,7 +14,7 @@ Short term goals I want to achieve
 
 [Wales Study Abroad](/Wales.md)
 
-###Contact Info
+#### Contact Info
 
 Email: ben@wwilley.com
 
