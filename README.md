@@ -4,7 +4,7 @@ This website is mainly for fun, but also, its for learning and experimenting.
 
 Short term website goals I want to achieve
  
- > learn to make commits/pulls to the github repository from my terminal
+ > Practice making commits/pulls to the github repository from my terminal
  
  > Make more interactable features. Think Games and APIs
 
