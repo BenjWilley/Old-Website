@@ -16,6 +16,3 @@ Short term goals I want to achieve
 
 [LinkedIn](https://www.linkedin.com/in/benjamin-willey-73163a173/)
 
-Email: Ben@wwilley.com
-
-Last edited friday, september 2. BTHO Sam Houston tomorrow.
