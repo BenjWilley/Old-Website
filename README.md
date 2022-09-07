@@ -10,7 +10,7 @@ Short term website goals I want to achieve
 
 > Github uses markdown, a simplified HTML, but I would like to encorporate other languages.
 
-[Resume](/Benjamin Willey Resume (4).pdf)
+[Resume](/benwilleyResume.pdf)
 
 [Wales Study Abroad](/Wales.md)
 
