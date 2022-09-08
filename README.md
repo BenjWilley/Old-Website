@@ -12,7 +12,7 @@ Short term website goals I want to achieve
 
 [Resume](/REALRESUME.pdf)
 
-[Wales Study Abroad](/Wales.md)
+[Wales Computer Architecture Study Abroad](/Wales.md)
 
 [LinkedIn](https://www.linkedin.com/in/benjamin-willey-73163a173/)
 
