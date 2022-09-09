@@ -16,4 +16,4 @@ Short term website goals I want to achieve
 
 [LinkedIn](https://www.linkedin.com/in/benjamin-willey-73163a173/)
 
-I am always changing my resume, so if you have a physical copy check my resume to see if Ive updated it (:
+I am always changing my resume, so if you have a physical copy, check my resume to see if Ive updated it (:
