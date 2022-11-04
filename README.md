@@ -1,4 +1,5 @@
-**I am certiport AUTOCAD certified, my resume does not reflect this and will be updated, thanks**
+****I am certiport AUTOCAD certified, my resume does not reflect this and will be updated, thanks
+
 Welcome, I'm Benjamin Willey, a junior Computer Engineering student at Texas A&M. 
 
 This website is mainly for fun, but also, it's for learning and experimenting.
