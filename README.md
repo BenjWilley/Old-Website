@@ -3,7 +3,7 @@ Welcome, I'm Benjamin Willey, a junior Computer Engineering student at Texas A&M
 This website is mainly for fun, but also, it's for learning and experimenting.
 
 
- This website will be replaced by a new one that Im developing in my software engineering class. I started 1/24 and it should be done mid February.
+ This website will be replaced by a new one that Im developing in my software engineering class. I started 1/24, and it should be done mid February.
  
 [HTML work in progress website](http://people.tamu.edu/~benwilley/)
 
