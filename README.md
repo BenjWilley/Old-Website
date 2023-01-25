@@ -2,13 +2,10 @@ Welcome, I'm Benjamin Willey, a junior Computer Engineering student at Texas A&M
 
 This website is mainly for fun, but also, it's for learning and experimenting.
 
-Short term website goals I want to achieve
- 
- > Practice making commits/pulls to the github repository from my terminal
- 
- > Make more interactable features. Think Games and APIs
 
-> Github uses markdown, a simplified HTML, but I would like to encorporate other languages.
+ This website will be replaced by a new one that Im developing in my software engineering class. I started 1/24 and it should be done mid February.
+ 
+[HTML work in progress website](http://people.tamu.edu/~benwilley/)
 
 [Resume](/BenWilleyResume12-22.pdf)
 
