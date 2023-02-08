@@ -7,7 +7,7 @@ This website is mainly for fun, but also, it's for learning and experimenting.
  
 [HTML work in progress website](http://people.tamu.edu/~benwilley/)
 
-[Resume](/BenWilleyResume12-22.pdf)
+[Resume](/BenWilleyResume1-25software.pdf)
 
 [Wales Computer Architecture Study Abroad](/Wales.md)
 
